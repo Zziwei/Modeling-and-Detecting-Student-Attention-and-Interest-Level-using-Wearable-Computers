@@ -1,0 +1,2 @@
+decision tree : 0 : []
+decision tree : 0.978937728938 : [11, 44, 45, 46, 53, 51]

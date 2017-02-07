@@ -1,0 +1,3 @@
+decision tree : 1.0 : [53, 72]
+decision tree : 0.948717948718 : [15, 44]
+decision tree : 0.951465201465 : [44, 11, 1]

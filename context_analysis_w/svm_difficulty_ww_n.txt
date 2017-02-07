@@ -1,0 +1,1 @@
+svm score = 0.791208791209 ;; candidate list = [5, 11, 19]
